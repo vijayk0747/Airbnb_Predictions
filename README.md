@@ -7,7 +7,7 @@ This project involved:
 1. Data Exploration
 2. Data Cleaning/Splitting
 3. Training different Machine Learning Models using sklearn
-4. Tuning the models (adding/removing data, adjusting train/test split, model parameters)
+4. Tuning the models (adding/removing data to avoid over/under fitting, adjusting train/test split, model parameters)
 5. Analysis of the results from the models.
 
 
